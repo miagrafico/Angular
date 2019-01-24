@@ -1,0 +1,32 @@
+{
+    "manufacter": {
+        "name": "Honda", 
+        "country": "South Korea"
+    }, 
+    "engine": {
+        "gears": "6", 
+        "transmission": "Manual", 
+        "type": "Petrol"
+    }, 
+    "description": "SPORTY LIKE A COUPE. ROOMY LIKE A SEDAN.",  
+    "id": "hondaforza", 
+    "images": [
+        "img/bikes/hondaforza1.jpg",
+        "img/bikes/hondaforza2.png",
+        "img/bikes/hondaforza3.jpg",
+        "img/bikes/hondaforza4.jpg",
+        "img/bikes/hondaforza5.jpg"
+    ], 
+    "name": "Honda Forza", 
+    "sizeAndWeight": {
+        "dimensions": [
+            "1399.5 mm (w)", 
+            "1595.8 mm (h)", 
+            "4218.9 mm (l)"
+        ], 
+        "weight": "1211.0 Kg"
+    }, 
+    "space": {
+        "volume": "15.5L"
+    }
+}

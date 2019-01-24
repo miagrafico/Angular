@@ -1,0 +1,24 @@
+[
+
+    {
+        "model": 125, 
+        "id": "hondapcx125", 
+        "imageUrl": "img/bikes/hondapcx1.jpg", 
+        "name": "Honda Pcx 125", 
+        "snippet": "MADE WITH YOU IN MIND TO GIVE YOU THE HIGHEST QUALITY"
+    },
+    {
+        "model": 2014, 
+        "id": "hondaforza", 
+        "imageUrl": "img/bikes/hondaforza1.jpg", 
+        "name": "Honda Forza", 
+        "snippet": "SPORTY LIKE A COUPE. ROOMY LIKE A SEDAN."
+    },
+    {
+        "model": 125, 
+        "id": "hyosunggt", 
+        "imageUrl": "img/bikes/hyosunggt1.jpg", 
+        "name": "Hyosung GT 125 R Comet", 
+        "snippet": "The Hyosung GT 125 R COMET is all about freedom including freedom of choice."
+    }
+]
